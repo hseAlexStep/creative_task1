@@ -17,4 +17,7 @@ __cowsay__ — это библиотека, которая генерирует 
 | -t      |   Использует "--" вместо "оо" для обозначения глаз.                                                         :|
 | -w      |   Использует "OO" вместо "оо" для обозначения глаз.                                                         :|
 | -y      |   Использует ".." вместо "оо" для обозначения глаз.                                                         :|
-![alt text](file:///C:/Users/%D0%A1%D0%90%D0%9D/Downloads/hiii.png 'картинка')
+Reference-style: 
+![alt text][logo]
+
+[logo]: file:///C:/Users/%D0%A1%D0%90%D0%9D/Downloads/hiii.png "Logo Title Text 2"
