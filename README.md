@@ -17,7 +17,7 @@ __cowsay__ — это библиотека, которая генерирует 
 | -t      |   Использует "--" вместо "оо" для обозначения глаз.                                                         :|
 | -w      |   Использует "OO" вместо "оо" для обозначения глаз.                                                         :|
 | -y      |   Использует ".." вместо "оо" для обозначения глаз.                                                         :|
-Reference-style: 
+
 ![alt text][logo]
 
-[logo]: https://cdn.7tv.app/emote/63e795c1e6693504043eed8e/4x.webp "Logo Title Text 2"
+[logo]: https://cdn.7tv.app/emote/63e795c1e6693504043eed8e/4x.webp 
