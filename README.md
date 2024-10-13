@@ -20,4 +20,5 @@ __cowsay__ — это библиотека, которая генерирует 
 ![alt text][logo]
 
 [logo]: https://cdn.7tv.app/emote/63e795c1e6693504043eed8e/4x.webp
-[Ссылка, чтобы поделиться с друзьями](https://github.com/hseAlexStep/creative_task1/main/README.md) 
+[Ссылка, чтобы поделиться с друзьями](https://github.com/hseAlexStep/creative_task1/main/README.md)
+:smile:
