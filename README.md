@@ -20,4 +20,4 @@ __cowsay__ — это библиотека, которая генерирует 
 Reference-style: 
 ![alt text][logo]
 
-[logo]: file:///C:/Users/%D0%A1%D0%90%D0%9D/Downloads/hiii.png "Logo Title Text 2"
+[logo]: https://cdn.7tv.app/emote/63e795c1e6693504043eed8e/4x.webp "Logo Title Text 2"
